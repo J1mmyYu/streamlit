@@ -1,10 +1,7 @@
-
-# the environment u need to have
-
 streamlit
 pandas
 numpy
-plotly
+plotly  
 statsmodels
 pymongo
 python-dotenv
