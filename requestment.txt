@@ -1,0 +1,13 @@
+
+# the environment u need to have
+
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+pymongo
+python-dotenv
+pydeck
+
+
